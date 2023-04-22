@@ -16,4 +16,4 @@ Spring boot
 
 Just simply clone this repository using git on your system.
 In your system you should have installed JDK 20.
-Then open any code editor and then click on Run button to start the server
+Then open any code editor (i am using Intelij Idea) and then start your server.
